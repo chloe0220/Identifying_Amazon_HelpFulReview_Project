@@ -1,5 +1,5 @@
 # Identifying_Amazon_HelpFulReview_Project
-There are 5 python notebook and 4 datasets included in the repositories.
+There are 5 Colab notebook and 4 datasets included in the repositories.
   
 Dataset folder:  
 Raw_Dataset_For_Tablet.csv: Web-scraped raw comments data from Amazon Website.  
